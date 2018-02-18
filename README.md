@@ -3,6 +3,7 @@ Project presented in Optimization Course at Federal University of Rio de Janeiro
 
 
 ---------------------- ENGLISH -------------------
+
 Project presented to Optimization Course at Federal University of Rio de Janeiro.
 
 Authors:
@@ -30,6 +31,7 @@ Bugs known:
 Sometimes, the user inputs are being binding corretely, throwing a error. To fix it, press ENTER in each box evaluable in the interface as well as mark the options again.
 
 --------------------- PORTUGUESE ----------------
+
 Trabalho Final de Introdução à Otimização
 
 Instruções:
