@@ -1,16 +1,19 @@
 # Matlab-Optimization-Algorithms-With-Interface
 Project presented in Optimization Course at Federal University of Rio de Janeiro (UFRJ) 
 
+Authors/Autores:
+
+Jean Americo:  jamerico "at" poli.ufrj.br
+
+Philipe Miranda:  philipemoura "at" poli.ufrj.br
+
+Felipe Matheus:  felipemfo "at" poli.ufrj.br
+
+Henrique Mattos: henriquemattos "at" poli.ufrj.br
 
 ---------------------- ENGLISH -------------------
 
 Project presented to Optimization Course at Federal University of Rio de Janeiro.
-
-Authors:
-Jean Americo: jamerico "at" poli.ufrj.br
-Philipe Miranda:  philipemoura "at" poli.ufrj.br
-Felipe Matheus:  felipemfo "at" poli.ufrj.br
-Henrique Mattos: henriquemattos "at" poli.ufrj.br
 
 
 User Instruction:
@@ -32,7 +35,7 @@ Sometimes, the user inputs are being binding corretely, throwing a error. To fix
 
 --------------------- PORTUGUESE ----------------
 
-Trabalho Final de Introdução à Otimização
+Trabalho Final de Introdução a Otimização da Universidade Federal do Rio de Janeiro (UFRJ)
 
 Instruções:
 1 - Rode o arquivo buscaMinimosGUI.m
