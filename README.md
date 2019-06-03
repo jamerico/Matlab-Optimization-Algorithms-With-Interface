@@ -11,6 +11,10 @@ Felipe Matheus:  felipemfo "at" poli.ufrj.br
 
 Henrique Mattos: henriquemattos "at" poli.ufrj.br
 
+<p align="center">
+  <img src="https://imgur.com/a/vHoFaYe" width="350">
+</p>
+
 ---------------------- ENGLISH -------------------
 
 Project presented to Optimization Course at Federal University of Rio de Janeiro.
@@ -21,10 +25,10 @@ User Instruction:
 2 - Fill the parameters and run.
 
 User Details:
-When a function is entered with one or more variables, the algorithms evaluable will change automatically.
-The possibilities are:
-1 variable: Aurea, Fibbonacci, Interpolation
-2 or more: 'Gradient', 'Conjugated Gradient-PR', 'Conjugated Gradient-FR', 'Newton', 'Modified Newton', 'Almost Newton-DFP', 'HookeAndJeeves', 'Genetic'.
+When a function is entered with one or more variables, the list of avaliable algorithms will change automatically.
+Some possibilities are:
+univariable: Aurea, Fibbonacci, Interpolation
+multivariable: 'Gradient', 'Conjugated Gradient-PR', 'Conjugated Gradient-FR', 'Newton', 'Modified Newton', 'Almost Newton-DFP', 'HookeAndJeeves', 'Genetic'.
 
 
 Color scheme:
@@ -46,8 +50,8 @@ Descrição:
 Ao entrar com uma função de duas ou mais variáveis,
 os métodos de minimização mudam automaticamente.
 Possibilidades:
-1 variável: Aurea, Fibbonacci, Interpolação
-2 ou mais: 'Gradiente', 'Gradiente Conjugado-PR', 'Gradiente Conjugado-FR','Newton', 'Newton Modificado', 'Quase Newton-DFP', 'HookeAndJeeves', 'Genetico'.
+univariáveis: Aurea, Fibbonacci, Interpolação
+multivariáveis: 'Gradiente', 'Gradiente Conjugado-PR', 'Gradiente Conjugado-FR','Newton', 'Newton Modificado', 'Quase Newton-DFP', 'HookeAndJeeves', 'Genetico'.
 
 Esquema de cores: Azul->Cyano->Amarelo->Verde. Primeiras para as últimas gerações de pontos.
 
