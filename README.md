@@ -11,10 +11,7 @@ Felipe Matheus:  felipemfo "at" poli.ufrj.br
 
 Henrique Mattos: henriquemattos "at" poli.ufrj.br
 
-<p align="center">
-  <img src="https://imgur.com/a/vHoFaYe" width="350">
-</p>
-
+![Imgur Image](https://imgur.com/a/vHoFaYe.png)
 ---------------------- ENGLISH -------------------
 
 Project presented to Optimization Course at Federal University of Rio de Janeiro.
