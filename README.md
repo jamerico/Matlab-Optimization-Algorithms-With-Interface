@@ -11,7 +11,9 @@ Felipe Matheus:  felipemfo "at" poli.ufrj.br
 
 Henrique Mattos: henriquemattos "at" poli.ufrj.br
 
-![Imgur Image](https://imgur.com/a/vHoFaYe.png)
+![Imgur Image](https://imgur.com/Car1DQT.png)
+
+
 ---------------------- ENGLISH -------------------
 
 Project presented to Optimization Course at Federal University of Rio de Janeiro.
@@ -57,3 +59,5 @@ Bugs e Soluções:
 Às vezes, as variáveis não são preenchidas com seus devidos valores. Para corrigir, apenas abra a interface e dê ENTER após entrar com cada valor, bem como marque as opções
 novamente.
 Em seguida, mande rodar.
+
+Para mais detalhes de implementação, leia os PDFs na pasta de documentação
