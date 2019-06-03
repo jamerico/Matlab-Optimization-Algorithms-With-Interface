@@ -60,4 +60,7 @@ Bugs e Soluções:
 novamente.
 Em seguida, mande rodar.
 
-Para mais detalhes de implementação, leia os PDFs na pasta de documentação
+Para mais detalhes de implementação, leia os PDFs:
+MethodsDescription1.pdf
+MethodsDescription2.pdf
+MethodsDescription3.pdf
