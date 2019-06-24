@@ -27,7 +27,7 @@ User Details:
 When a function is entered with one or more variables, the list of avaliable algorithms will change automatically.
 Some possibilities are:
 univariable: Aurea, Fibbonacci, Interpolation
-multivariable: 'Gradient', 'Conjugated Gradient-PR', 'Conjugated Gradient-FR', 'Newton', 'Modified Newton', 'Almost Newton-DFP', 'HookeAndJeeves', 'Genetic'.
+multivariable: 'Gradient', 'Conjugated Gradient-PR', 'Conjugated Gradient-FR', 'Newton', 'Modified Newton', 'Quasi Newton-DFP', 'HookeAndJeeves', 'Genetic'.
 
 
 Color scheme:
